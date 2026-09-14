@@ -17,6 +17,7 @@
     "@langchain/openai": "^1.5.13",
     "@langchain/pinecone": "^1.0.3",
     "@langchain/textsplitters": "^1.0.1",
+    "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "langchain": "^1.5.11"
   }
